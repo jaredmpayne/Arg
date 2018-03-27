@@ -1,15 +1,8 @@
 {
     "name": "arg",
-    "products": [
-        {
-            "name": "arg",
-            "type": "library",
-            "targets": ["arg"]
-        }
-    ],
     "targets": [
         {
             "name": "arg"
         }
-    ],
+    ]
 }
